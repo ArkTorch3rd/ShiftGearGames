@@ -1,0 +1,4 @@
+{
+    "scm.alwaysShowRepositories": true,
+    "gitlens.views.repositories.autoReveal": false
+}
