@@ -8,9 +8,10 @@ Home page with navigation bar,
 Games overarching page with subpages for specific games,
 Newsletter page,
 About Us page.
+Background of mines and the abyss.
+Patchnotes updated.
 # To-do list
-CSS Styles,
-Background,
-Images and game logos.
+CSS Margins, borders and paddings
 # Credits
 I received inspiration from the Riot Games website https://riotgames.com along with Blizzard Entertainment's website https://blizzard.com
+Credit.txt contains picture references.
