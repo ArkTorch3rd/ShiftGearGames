@@ -39,7 +39,7 @@ nav{
   }
 .home{
     background-image: url('Images/mine.jpg') ;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-attachment: scroll;
     background-size: cover;
 }
