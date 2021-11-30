@@ -21,7 +21,7 @@ nav{
 }
   
 .button {
-    background-color: darkgreen;
+    background-color: darkblue;
     border: none;
     color: white;
     padding: 15px 40px;
@@ -73,4 +73,10 @@ h2{
 }
 .paddingfoot{
     padding-bottom: 30px;
+}
+footer{
+
+    color: blanchedalmond;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
