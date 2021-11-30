@@ -39,9 +39,8 @@ nav{
   }
 .home{
     background-image: url('Images/mine.jpg') ;
-    background-repeat: repeat;
-    background-attachment: fixed;
-    background-size: auto;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 h1{
     color: bisque;
@@ -74,9 +73,8 @@ h2{
 }
 .abyssback{
     background-image: url('Images/abyss.jpg') ;
-    background-repeat: repeat;
-    background-attachment: fixed;
-    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 .paddingfoot{
     padding-bottom: 30px;
