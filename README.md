@@ -27,6 +27,7 @@ No technologies other than HTML, CSS and JavaScript have been used for this proj
 ### I received inspiration from:
 - Riot Games website https://riotgames.com
 - Blizzard Entertainment's website https://blizzard.com
+<<<<<<< HEAD
 ## Media
 ### Codes and images were from:
 - Picture used.
@@ -44,3 +45,7 @@ No technologies other than HTML, CSS and JavaScript have been used for this proj
 4. css buttons: https://www.w3schools.com/css/css3_buttons.asp
 5. html forms: https://www.w3schools.com/tags/att_input_size.asp
 
+=======
+- <a href ="credit.txt">credit.txt</a> contains picture references.
+- <a href ="codecredit.txt">codecredit.txt</a> contains code samples used in this webpage.
+>>>>>>> 99286c8e23540d4c0b0e4f9aa319969b2b34c7d5
