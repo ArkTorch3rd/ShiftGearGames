@@ -389,7 +389,7 @@ nav{
     font-size: 20px;
   }
 .home{
-    background-image: url('Images/mine.jpg') ;
+    background-image: url('../Images/mine.jpg') ;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -423,7 +423,7 @@ h2{
     font-size: 36pt;
 }
 .abyssback{
-    background-image: url('Images/abyss.jpg') ;
+    background-image: url('../Images/abyss.jpg') ;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }

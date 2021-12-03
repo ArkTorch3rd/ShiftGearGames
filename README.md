@@ -17,4 +17,4 @@ As a user, I would like a way to file bug reports to help improve game experienc
 I received inspiration from:
 - Riot Games website https://riotgames.com
 - Blizzard Entertainment's website https://blizzard.com
-- <a href ="credit.txt"> contains picture references. </a>
+- <a href ="credit.txt">credits.txt</a> contains picture references.
