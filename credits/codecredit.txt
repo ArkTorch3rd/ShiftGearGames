@@ -1,4 +1,5 @@
 background images: https://www.w3schools.com/cssref/pr_background-image.asp
 responsive web design: https://www.w3schools.com/css/css_rwd_viewport.asp
 centering web images: https://www.w3schools.com/howto/howto_css_image_center.asp
-css buttons https://www.w3schools.com/css/css3_buttons.asp
+css buttons: https://www.w3schools.com/css/css3_buttons.asp
+html forms: https://www.w3schools.com/tags/att_input_size.asp

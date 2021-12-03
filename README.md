@@ -11,10 +11,12 @@ As a user, I would like a way to file bug reports to help improve game experienc
 - About Us page
 - Site background of mines and the abyss
 - Patchnotes updated
+- Bug report (Rudementary)
 # To-do list
-- Bug report form
+- Refinement of page format
 # Credits
 I received inspiration from:
 - Riot Games website https://riotgames.com
 - Blizzard Entertainment's website https://blizzard.com
-- <a href ="credit.txt">credits.txt</a> contains picture references.
+- <a href ="credit.txt">credit.txt</a> contains picture references.
+- <a hred ="codecredit.txt">codecredit.txt</a> contains code samples used in this webpage.
