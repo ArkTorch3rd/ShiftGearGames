@@ -19,4 +19,4 @@ I received inspiration from:
 - Riot Games website https://riotgames.com
 - Blizzard Entertainment's website https://blizzard.com
 - <a href ="credit.txt">credit.txt</a> contains picture references.
-- <a hred ="codecredit.txt">codecredit.txt</a> contains code samples used in this webpage.
+- <a href ="codecredit.txt">codecredit.txt</a> contains code samples used in this webpage.
